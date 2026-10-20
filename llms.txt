@@ -2,7 +2,7 @@
 
 > SMYZE Robobarista V3 is a Swiss-engineered robotic drinks bar. 40+ drinks on a 3.9 m² body, serves 24/7, no barista needed. Three ways to partner: revenue share, revenue share with buy-in, or leasing.
 
-The Swiss Robobarista. 40+ drinks. 3.9 m². Serves 24/7, sleeps when you close. No barista needed. Fresh drinks revenue at every hour, without hiring.
+The Swiss Robobarista. 40+ drinks. 3.9 m². Serves 24/7, sleeps when you close. No barista needed. Fresh drinks revenue at every hour, without hiring.
 
 ## Sections
 
@@ -27,7 +27,7 @@ About 60 to 80 drinks a day is the minimum viable volume for a Robobarista site.
 
 ### What does a site need?
 
-3,836 × 3,611 mm of floor space including service access, and a ceiling above 2,207 mm. Power: 400 V three-phase at 16 A in the EU, or 240 V split-phase at 40 A in the US. A 1/2″ mains water connection at about 3 bar, a drain, and cellular signal. SMYZE supplies the SIM.
+3,836 × 3,611 mm of floor space including service access, and a ceiling above 2,207 mm. Power: 400 V three-phase at 16 A in the EU, or 240 V split-phase at 40 A in the US. A 1/2″ mains water connection at about 3 bar, a drain, and cellular signal. SMYZE supplies the SIM.
 
 ### How fast can we go live?
 
@@ -47,7 +47,7 @@ Every unit is monitored remotely by the SMYZE team, and any irregularity is flag
 
 ### Can it go outdoors?
 
-Yes. One variant covers indoor and outdoor sites. Operating range: −10 °C to +40 °C.
+Yes. One variant covers indoor and outdoor sites. Operating range: −10 °C to +40 °C.
 
 ### Who owns the sales data, and can we access it?
 
