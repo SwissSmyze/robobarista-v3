@@ -47,7 +47,7 @@ Every unit is monitored remotely by the SMYZE team, and any irregularity is flag
 
 ### Can it go outdoors?
 
-Yes. One variant covers indoor and outdoor sites. Operating range: −10 °C to +40 °C.
+Yes. One variant covers indoor and outdoor sites. Operating range: −10 °C to +40 °C. Outdoor installs include a roof.
 
 ### Who owns the sales data, and can we access it?
 
